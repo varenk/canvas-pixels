@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#canvas1 {
+    background: pink;
+    position: absolute;
+}
+
+.controls {
+    position: absolute;
+    z-index: 10;
+}
+
+img {
+    display: none;
+}
